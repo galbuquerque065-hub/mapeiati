@@ -16,7 +16,7 @@
 
 O MapeiaTI é um projeto de extensão acadêmica desenvolvido na disciplina de ACE (Atividade Curricular de Extensão) durante o 3º semestre do Bacharelado em Sistemas de Informação.
 
-O projeto consistiu no levantamento real de dados de infraestrutura de sistemas no **Supermercado Central** de Senador Pompeu, CE — resultando em documentação técnica formal e representação visual dos dados coletados.
+O projeto consistiu no levantamento real de dados de infraestrutura de sistemas no **Supermercado Central** de Senador Pompeu, CE, resultando em documentação técnica formal e representação visual dos dados coletados.
 
 ---
 
